@@ -1,1 +1,1 @@
-lockOwner = {"name","newName"}
+lockOwner = {"name"}
